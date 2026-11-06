@@ -7,12 +7,10 @@
     alt="Kunal - Full-Stack Developer"
   />
 
-  <a href="https://readme-typing-svg.demolab.com">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+software%2C+from+API+to+infrastructure.;Go+%7C+TypeScript+%7C+PostgreSQL+%7C+Cloud.;Performance%2C+security%2C+and+maintainability+matter."
       alt="Animated introduction"
     />
-  </a>
 
   <p>
     <a href="https://github.com/kunal-dev-01">
