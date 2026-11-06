@@ -79,22 +79,25 @@ I'm especially interested in the engineering behind products: how services commu
 
 <div align="center">
   <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=kunal-dev-01&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true"
-    alt="GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunal-dev-01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-    alt="Most used languages"
-  />
-  <br />
-  <img
     width="95%"
     src="https://streak-stats.demolab.com?user=kunal-dev-01&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
   />
 </div>
+
+### Languages Across Public Repositories
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-7%20repositories-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript: 7 public repositories" />
+  <img src="https://img.shields.io/badge/Go-2%20repositories-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go: 2 public repositories" />
+  <img src="https://img.shields.io/badge/Python-2%20repositories-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python: 2 public repositories" />
+  <br />
+  <img src="https://img.shields.io/badge/Public%20code%20repositories-11-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="11 public code repositories reviewed" />
+</div>
+
+<p align="center">
+  <sub>Counts use GitHub's primary-language metadata for 11 public code repositories. They represent repository counts, not code-size percentages.</sub>
+</p>
 
 ## Connect
 
