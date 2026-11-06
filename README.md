@@ -7,11 +7,6 @@
     alt="Kunal - Full-Stack Developer"
   />
 
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+software%2C+from+API+to+infrastructure.;Go+%7C+TypeScript+%7C+PostgreSQL+%7C+Cloud.;Performance%2C+security%2C+and+maintainability+matter."
-      alt="Animated introduction"
-    />
-
   <p>
     <a href="https://github.com/kunal-dev-01">
       <img src="https://img.shields.io/badge/GitHub-kunal--dev--01-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
@@ -85,12 +80,12 @@ I'm especially interested in the engineering behind products: how services commu
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=kunal-dev-01&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=kunal-dev-01&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true"
     alt="GitHub statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-dev-01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunal-dev-01&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
     alt="Most used languages"
   />
   <br />
