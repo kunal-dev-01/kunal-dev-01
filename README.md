@@ -2,9 +2,9 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:312E81,100:0EA5E9&text=Kunal%20Singh&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20Infrastructure&descAlignY=60&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:312E81,100:0EA5E9&text=Kunal&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20-%20Backend%20Engineering%20and%20Infrastructure&descAlignY=60&descSize=16&animation=fadeIn"
     width="100%"
-    alt="Kunal Singh — Full-Stack Developer"
+    alt="Kunal - Full-Stack Developer"
   />
 
   <a href="https://readme-typing-svg.demolab.com">
@@ -17,9 +17,6 @@
   <p>
     <a href="https://github.com/kunal-dev-01">
       <img src="https://img.shields.io/badge/GitHub-kunal--dev--01-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-    </a>
-    <a href="https://upnixo.com">
-      <img src="https://img.shields.io/badge/Building-Upnixo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Upnixo website" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=kunal-dev-01&style=for-the-badge&color=0EA5E9" alt="Profile views" />
   </p>
@@ -111,9 +108,6 @@ I'm especially interested in the engineering behind products: how services commu
 <div align="center">
   <a href="https://github.com/kunal-dev-01">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://upnixo.com">
-    <img src="https://img.shields.io/badge/Upnixo-Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Upnixo" />
   </a>
 </div>
 
